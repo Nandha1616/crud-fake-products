@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Smart Watch X10",
+      "price": 2499,
+      "description": "Bluetooth smartwatch with fitness tracking and heart rate monitor.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Smart Watch X10",
+      "price": 2499,
+      "description": "Bluetooth smartwatch with fitness tracking and heart rate monitor.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Smart Watch X10",
+      "price": 2499,
+      "description": "Bluetooth smartwatch with fitness tracking and heart rate monitor.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Smart Watch X10",
+      "price": 2499,
+      "description": "Bluetooth smartwatch with fitness tracking and heart rate monitor.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Smart Watch X10",
+      "price": 2499,
+      "description": "Bluetooth smartwatch with fitness tracking and heart rate monitor.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Smart Watch X10",
+      "price": 2499,
+      "description": "Bluetooth smartwatch with fitness tracking and heart rate monitor.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Smart Watch X10",
+      "price": 2499,
+      "description": "Bluetooth smartwatch with fitness tracking and heart rate monitor.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    }
+  ]
+}
